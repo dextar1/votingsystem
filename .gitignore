@@ -45,9 +45,9 @@ Desktop.ini
 .Trashes
 
 ######################
-# NetBeans
+# NetBeans specific #
 ######################
-nbproject/
+nbproject/private/
 build/
 nbbuild/
 dist/
